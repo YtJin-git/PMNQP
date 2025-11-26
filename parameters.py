@@ -36,8 +36,6 @@ parser.add_argument('--threshold', type=float, default=None, help="optional thre
 parser.add_argument('--threshold_trials', type=int, default=50, help="how many threshold values to try")
 
 parser.add_argument("--adapter_dim", help="middle dimension of Adapter", type=int, default=64)
-parser.add_argument("--init_lamda", help="lamda initialization value", type=float, default=0.1)
-
 # loss
 parser.add_argument("--pair_loss_weight", help="pair_loss_weight", type=float, default=1.0)
 parser.add_argument("--pair_inference_weight", help="pair_inference_weight", type=float, default=1.0)
@@ -50,7 +48,3 @@ parser.add_argument("--attr_readout_loss_weight", help="attr_readout_loss_weight
 parser.add_argument("--attr_readout_inference_weight", help="attr_readout_inference_weight", type=float, default=1.0)
 parser.add_argument("--obj_readout_loss_weight", help="obj_readout_loss_weight", type=float, default=1.0)
 parser.add_argument("--obj_readout_inference_weight", help="obj_readout_inference_weight", type=float, default=1.0)
-parser.add_argument("--attr_memory_contrastive_loss_weight", help="attr_memory_contrastive_loss_weight", type=float, default=1.0)
-parser.add_argument("--obj_memory_contrastive_loss_weight", help="obj_memory_contrastive_loss_weight", type=float, default=1.0)
-parser.add_argument("--attr_memory_distill_loss_weight", help="attr_memory_distill_loss_weight", type=float, default=1.0)
-parser.add_argument("--obj_memory_distill_loss_weight", help="obj_memory_distill_loss_weight", type=float, default=1.0)
