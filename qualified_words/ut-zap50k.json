@@ -1,0 +1,34 @@
+{
+  "attributes": {
+    "canvas": ["cloth", "linen", "textile", "fabric", "tarp"],
+    "cotton": ["fiber", "yarn", "thread", "muslin", "calico"],
+    "faux fur": ["imitation", "synthetic", "plush", "fake", "artificial"],
+    "faux leather": ["pleather", "vinyl", "synthetic", "imitation", "artificial"],
+    "full grain leather": ["hide", "cowhide", "grain", "natural", "tanned"],
+    "hair calf": ["pony", "fur", "hide", "skin", "pelage"],
+    "leather": ["hide", "skin", "tanned", "cowhide", "suede"],
+    "nubuck": ["velour", "hide", "buffed", "grain", "sandpapered"],
+    "nylon": ["polyamide", "synthetic", "fiber", "thread", "textile"],
+    "patent leather": ["glossy", "shiny", "lacquered", "varnished", "polished"],
+    "rubber": ["latex", "elastic", "gum", "caoutchouc", "polymer"],
+    "satin": ["glossy", "silken", "smooth", "lustrous", "shiny"],
+    "sheepskin": ["wool", "hide", "pelt", "fleece", "skin"],
+    "suede": ["velvet", "nubuck", "buffed", "soft", "brushed"],
+    "synthetic": ["artificial", "manmade", "plastic", "fabricated", "engineered"],
+    "wool": ["fleece", "yarn", "fiber", "lanolin", "alpaca"]
+  },
+  "objects": {
+    "boots ankle": ["bootie", "short", "low", "heel", "zipper"],
+    "boots knee high": ["tall", "equestrian", "riding", "long", "shaft"],
+    "boots mid-calf": ["medium", "slouch", "western", "cowboy", "biker"],
+    "sandals": ["strap", "open", "flat", "summer", "casual"],
+    "shoes boat shoes": ["deck", "topsider", "casual", "loafer", "slipon"],
+    "shoes clogs and mules": ["wooden", "slipon", "block", "heel", "casual"],
+    "shoes flats": ["ballet", "simple", "low", "slipon", "casual"],
+    "shoes heels": ["stiletto", "pump", "wedge", "platform", "dress"],
+    "shoes loafers": ["slipon", "penny", "casual", "moccasin", "dress"],
+    "shoes oxfords": ["laceup", "brogue", "wingtip", "dress", "formal"],
+    "shoes sneakers and athletic shoes": ["trainer", "runner", "sport", "casual", "tennis"],
+    "slippers": ["indoor", "house", "moccasin", "fuzzy", "comfort"]
+  }
+}
