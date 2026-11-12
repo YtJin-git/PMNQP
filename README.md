@@ -1,7 +1,9 @@
 # PMNQP
 Primitive Memory Networks with Qualified Prompts for Compositional Zero-Shot Learning
 
-**Published in IEEE Transactions on Image Processing (TIP), 2026 (Early Access).**
+**Published in IEEE Transactions on Image Processing (TIP), vol. 35, pp. 11628–11641, 2026.**
+
+**Date of publication:** 3 November 2026.
 
 Yutang Jin, Boyu Zhao, Shitao Chen, Shiming Chen, Guo-Sen Xie, Yisong Wang, and Xinge You
 
@@ -18,9 +20,10 @@ PMNQP combines qualified textual prompts with primitive visual memories for comp
   title={Primitive Memory Networks with Qualified Prompts for Compositional Zero-Shot Learning},
   author={Jin, Yutang and Zhao, Boyu and Chen, Shitao and Chen, Shiming and Xie, Guo-Sen and Wang, Yisong and You, Xinge},
   journal={IEEE Transactions on Image Processing},
+  volume={35},
+  pages={11628--11641},
   year={2026},
   doi={10.1109/TIP.2026.3748354},
-  url={https://ieeexplore.ieee.org/document/11773295},
-  note={Early Access}
+  url={https://ieeexplore.ieee.org/document/11773295}
 }
 ```
